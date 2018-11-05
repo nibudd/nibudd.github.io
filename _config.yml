@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 title: Nathan Budd, M.Eng.
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
